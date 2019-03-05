@@ -1,0 +1,3 @@
+Message pour user2@mach2 sur pts/0, temps: 23:41:16, date: 2019-03-02
+01 02 03 04 05
+
